@@ -1,4 +1,9 @@
 ### Hi there 👋
+## All my projects is only for education and 4fun
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=xBeefyOreo.xBeefyOreo" />
+
+- 🌱 I’m currently learning C#
+- 💬 Ask me about WEATHER! lmao
 
 <!--
 **xBeefyOreo/xBeefyOreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**C# Programs:** 
+ - [Discord Nitro Checker](https://github.com/xBeefyOreo/Discord-Nitro-Checker)
+ 
+ **"Cheats"**
+ - [Space Shooter Thingy](https://github.com/xBeefyOreo/Space-Shooter-thingy_CliffyCheats)
