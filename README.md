@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning C#
 - 💬 Ask me about WEATHER! lmao
+- 👯 I’m looking to collaborate on Needed C# Programs/Tools 
 
 <!--
 **xBeefyOreo/xBeefyOreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
